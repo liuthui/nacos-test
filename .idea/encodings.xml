@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/nacos-cmdb-plugin-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-cmdb-plugin-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-grpc-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-grpc-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-spring-example/nacos-spring-config-datasource-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-spring-example/nacos-spring-config-datasource-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-spring-example/nacos-spring-config-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-spring-example/nacos-spring-config-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-spring-example/nacos-spring-config-listener-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-spring-example/nacos-spring-config-listener-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-spring-example/nacos-spring-config-multi-data-ids-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-spring-example/nacos-spring-config-multi-data-ids-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-spring-example/nacos-spring-config-pojo-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-spring-example/nacos-spring-config-pojo-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-spring-example/nacos-spring-discovery-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-spring-example/nacos-spring-discovery-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-spring-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-spring-example/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
